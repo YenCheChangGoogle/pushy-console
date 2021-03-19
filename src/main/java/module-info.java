@@ -11,6 +11,8 @@ module pushy.console {
     requires org.apache.commons.lang3;
 
     requires pushy;
+    requires io.netty.transport;
+	requires slf4j.api;
 
     opens com.eatthepath.pushy.console to javafx.fxml;
     exports com.eatthepath.pushy.console;

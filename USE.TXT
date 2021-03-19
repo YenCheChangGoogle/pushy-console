@@ -1,0 +1,9 @@
+(1) 使用JDK11 目前安裝 jdk-11.0.9 設定到系統路徑變數
+(2) JavaFX14
+(3) mvn javafx:run
+
+Device_Token : 375c78f0411c3246ffcc85faae33438a080a854ad131ba55df9709fc259020ed
+Credentials: D:\SenaoECBackendWorkspace\prod_appsvc_apache-tomcat-7.0.85\webapps\prod_appsvc\apps_cert_files\SPLUS2R.p12 密碼是 qwer1234
+
+測試程式碼
+com.eatthepath.pushy.console.PushyConsoleController.java
